@@ -1,0 +1,101 @@
+21:31:02.641 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T18:31:02.641Z 
+21:31:02.641 INFO  Called UserService.isNew 2018-07-24T18:31:02.641Z 
+21:31:02.782 INFO  Trying to save new user 2018-07-24T18:31:02.782Z 
+21:32:57.184 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T18:32:57.184Z 
+21:32:57.184 INFO  Called UserService.isNew 2018-07-24T18:32:57.184Z 
+21:41:42.600 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T18:41:42.600Z 
+21:41:42.600 INFO  Called UserService.isNew 2018-07-24T18:41:42.600Z 
+21:47:44.086 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T18:47:44.086Z 
+21:47:44.086 INFO  Called UserService.isNew 2018-07-24T18:47:44.086Z 
+21:50:03.060 INFO  Called UserService.saveUser with id: 564178022 2018-07-24T18:50:03.060Z 
+21:50:03.061 INFO  Called UserService.isNew 2018-07-24T18:50:03.061Z 
+21:51:34.966 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T18:51:34.966Z 
+21:51:34.966 INFO  Called UserService.isNew 2018-07-24T18:51:34.966Z 
+21:52:28.270 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T18:52:28.270Z 
+21:52:28.270 INFO  Called UserService.isNew 2018-07-24T18:52:28.270Z 
+21:53:12.239 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T18:53:12.239Z 
+21:53:12.239 INFO  Called UserService.isNew 2018-07-24T18:53:12.239Z 
+22:00:16.992 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T19:00:16.992Z 
+22:00:16.993 INFO  Called UserService.isNew 2018-07-24T19:00:16.993Z 
+22:09:42.053 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T19:09:42.053Z 
+22:09:42.053 INFO  Called UserService.isNew 2018-07-24T19:09:42.053Z 
+22:10:47.990 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T19:10:47.990Z 
+22:10:47.990 INFO  Called UserService.isNew 2018-07-24T19:10:47.990Z 
+22:11:08.949 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T19:11:08.949Z 
+22:11:08.949 INFO  Called UserService.isNew 2018-07-24T19:11:08.949Z 
+22:11:55.371 INFO  Called UserService.saveUser with id: 564178022 2018-07-24T19:11:55.371Z 
+22:11:55.371 INFO  Called UserService.isNew 2018-07-24T19:11:55.371Z 
+22:14:56.492 INFO  Called UserService.saveUser with id: 564178022 2018-07-24T19:14:56.492Z 
+22:14:56.492 INFO  Called UserService.isNew 2018-07-24T19:14:56.492Z 
+22:23:39.266 INFO  Called UserService.saveUser with id: 288860660 2018-07-24T19:23:39.266Z 
+22:23:39.266 INFO  Called UserService.isNew 2018-07-24T19:23:39.266Z 
+21:07:53.178 INFO  Called UserService.saveUser with id: 564178022 2018-07-25T18:07:53.178Z 
+21:07:53.178 INFO  Called UserService.isNew 2018-07-25T18:07:53.178Z 
+21:46:06.864 INFO  Called UserService.saveUser with id: 564178022 2018-07-25T18:46:06.864Z 
+21:46:06.864 INFO  Called UserService.isNew 2018-07-25T18:46:06.864Z 
+21:06:02.853 INFO  Called UserService.saveUser with id: 564178022 2018-07-30T18:06:02.853Z 
+21:06:02.853 INFO  Called UserService.isNew 2018-07-30T18:06:02.853Z 
+21:08:56.574 INFO  Called UserService.saveUser with id: 564178022 2018-07-30T18:08:56.574Z 
+21:08:56.574 INFO  Called UserService.isNew 2018-07-30T18:08:56.574Z 
+21:09:42.138 INFO  Called UserService.saveUser with id: 246978293 2018-07-30T18:09:42.138Z 
+21:09:42.138 INFO  Called UserService.isNew 2018-07-30T18:09:42.138Z 
+21:19:11.875 INFO  Called UserService.saveUser with id: 246978293 2018-07-30T18:19:11.875Z 
+21:19:11.875 INFO  Called UserService.isNew 2018-07-30T18:19:11.875Z 
+21:38:41.914 INFO  Called UserService.saveUser with id: 246978293 2018-07-30T18:38:41.914Z 
+21:38:41.914 INFO  Called UserService.isNew 2018-07-30T18:38:41.914Z 
+21:43:16.929 INFO  Called UserService.saveUser with id: 288860660 2018-07-30T18:43:16.929Z 
+21:43:16.929 INFO  Called UserService.isNew 2018-07-30T18:43:16.929Z 
+21:54:15.129 INFO  Called UserService.saveUser with id: 246978293 2018-07-30T18:54:15.129Z 
+21:54:15.130 INFO  Called UserService.isNew 2018-07-30T18:54:15.130Z 
+21:30:58.191 INFO  Called UserService.saveUser with id: 288860660 2018-08-06T18:30:58.191Z 
+21:30:58.191 INFO  Called UserService.isNew 2018-08-06T18:30:58.191Z 
+21:36:26.226 INFO  Called UserService.saveUser with id: 288860660 2018-08-06T18:36:26.226Z 
+21:36:26.226 INFO  Called UserService.isNew 2018-08-06T18:36:26.226Z 
+21:59:49.781 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T18:59:49.781Z 
+21:59:49.781 INFO  Called UserService.isNew 2018-08-06T18:59:49.781Z 
+22:00:51.992 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T19:00:51.992Z 
+22:00:51.992 INFO  Called UserService.isNew 2018-08-06T19:00:51.992Z 
+22:01:27.487 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T19:01:27.487Z 
+22:01:27.488 INFO  Called UserService.isNew 2018-08-06T19:01:27.488Z 
+22:03:01.815 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T19:03:01.814Z 
+22:03:01.815 INFO  Called UserService.isNew 2018-08-06T19:03:01.815Z 
+22:08:18.790 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T19:08:18.790Z 
+22:08:18.790 INFO  Called UserService.isNew 2018-08-06T19:08:18.790Z 
+22:13:12.146 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T19:13:12.146Z 
+22:13:12.146 INFO  Called UserService.isNew 2018-08-06T19:13:12.146Z 
+22:14:28.546 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T19:14:28.546Z 
+22:14:28.546 INFO  Called UserService.isNew 2018-08-06T19:14:28.546Z 
+22:16:43.659 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T19:16:43.659Z 
+22:16:43.659 INFO  Called UserService.isNew 2018-08-06T19:16:43.659Z 
+22:18:05.886 INFO  Called UserService.saveUser with id: 246978293 2018-08-06T19:18:05.885Z 
+22:18:05.886 INFO  Called UserService.isNew 2018-08-06T19:18:05.886Z 
+19:38:15.522 INFO  Called UserService.saveUser with id: 288860660 2018-08-07T16:38:15.522Z 
+19:38:15.522 INFO  Called UserService.isNew 2018-08-07T16:38:15.522Z 
+19:38:29.898 INFO  Called UserService.saveUser with id: 288860660 2018-08-07T16:38:29.898Z 
+19:38:29.898 INFO  Called UserService.isNew 2018-08-07T16:38:29.898Z 
+19:38:39.000 INFO  Called UserService.saveUser with id: 288860660 2018-08-07T16:38:39.000Z 
+19:38:39.000 INFO  Called UserService.isNew 2018-08-07T16:38:39.000Z 
+19:39:40.754 INFO  Called UserService.saveUser with id: 288860660 2018-08-07T16:39:40.754Z 
+19:39:40.754 INFO  Called UserService.isNew 2018-08-07T16:39:40.754Z 
+20:13:09.924 INFO  Called UserService.saveUser with id: 246978293 2018-08-07T17:13:09.924Z 
+20:13:09.924 INFO  Called UserService.isNew 2018-08-07T17:13:09.924Z 
+20:21:21.709 INFO  Called UserService.saveUser with id: 246978293 2018-08-07T17:21:21.709Z 
+20:21:21.709 INFO  Called UserService.isNew 2018-08-07T17:21:21.709Z 
+20:56:55.316 INFO  Called UserService.saveUser with id: 246978293 2018-08-07T17:56:55.316Z 
+20:56:55.316 INFO  Called UserService.isNew 2018-08-07T17:56:55.316Z 
+21:25:13.768 INFO  Called UserService.saveUser with id: 246978293 2018-08-07T18:25:13.768Z 
+21:25:13.769 INFO  Called UserService.isNew 2018-08-07T18:25:13.769Z 
+21:32:50.108 INFO  Called UserService.saveUser with id: 246978293 2018-08-07T18:32:50.108Z 
+21:32:50.108 INFO  Called UserService.isNew 2018-08-07T18:32:50.108Z 
+22:03:16.979 INFO  Called UserService.saveUser with id: 246978293 2018-08-07T19:03:16.978Z 
+22:03:16.979 INFO  Called UserService.isNew 2018-08-07T19:03:16.979Z 
+20:49:57.276 INFO  Called UserService.saveUser with id: 246978293 2018-08-08T17:49:57.276Z 
+20:49:57.276 INFO  Called UserService.isNew 2018-08-08T17:49:57.276Z 
+20:55:48.020 INFO  Called UserService.saveUser with id: 246978293 2018-08-08T17:55:48.020Z 
+20:55:48.020 INFO  Called UserService.isNew 2018-08-08T17:55:48.020Z 
+21:13:39.751 INFO  Called UserService.saveUser with id: 288860660 2018-08-08T18:13:39.751Z 
+21:13:39.751 INFO  Called UserService.isNew 2018-08-08T18:13:39.751Z 
+22:00:40.394 INFO  Called UserService.saveUser with id: 246978293 2018-08-08T19:00:40.393Z 
+22:00:40.394 INFO  Called UserService.isNew 2018-08-08T19:00:40.394Z 
+22:24:03.138 INFO  Called UserService.saveUser with id: 246978293 2018-08-08T19:24:03.138Z 
+22:24:03.139 INFO  Called UserService.isNew 2018-08-08T19:24:03.139Z 

@@ -1,0 +1,18 @@
+{
+  "name": "66",
+  "version": "1.0.0",
+  "description": "",
+  "main": "66.js",
+  "scripts": {
+    "test": "nodemon 66.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.2.5",
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.3",
+    "simple-node-logger": "^0.93.37"
+  }
+}
